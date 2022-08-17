@@ -1,3 +1,9 @@
+#not - inversion (¬)
+#or - disjunction (∪)
+#and - conjunction (∩)
+#<= - implication (→)
+#== - equivalence (↔)
+
 print('x y z w')
 for x in range(2):
     for y in range(2):
