@@ -2,7 +2,7 @@
 #or - disjunction (∪)
 #and - conjunction (∩)
 #<= - implication (→)
-#== - equivalence (↔)
+#== - equivalence (↔, ≡)
 
 print('x y z w')
 for x in range(2):
