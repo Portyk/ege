@@ -1,8 +1,8 @@
 #not - inversion (¬)
-#or - disjunction (∪)
-#and - conjunction (∩)
+#or - disjunction (∨)
+#and - conjunction (∧)
 #<= - implication (→)
-#== - equivalence (↔, ≡)
+#== - equivalence (≡)
 #& - bitwise conjunction
 
 print('x y z w')
